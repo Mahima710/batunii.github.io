@@ -133,7 +133,7 @@ button:active {
   .mobile-img {
     height: 150px;
     width: 150px;
-    border: solid #cd1818 5px;
+    border: solid red 5px;
     border-radius: 100%;
   }
 
