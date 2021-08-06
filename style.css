@@ -129,11 +129,25 @@ button:active {
     font-size: 5rem;
     display: none;
   }
+  
+  .text-center {
+    position: fixed;
+    margin-top:14rem;
+    background-color: #242424;
+    border: none;
+    width: 100%;
+    left: 0;
+    right: 0;
+  }
+
+  .navbar-nav .nav-item .nav-link {
+    font-size: 2vw;
+  }
 
   .mobile-img {
     height: 150px;
     width: 150px;
-    border: solid red 5px;
+    border: solid #cd1818 5px;
     border-radius: 100%;
   }
 
